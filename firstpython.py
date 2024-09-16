@@ -1,2 +1,2 @@
-
-print(New python file)
+#Display the outout
+print("New python file")
